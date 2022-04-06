@@ -1,0 +1,151 @@
+id,name,Car,ET,Mph
+1,Balduin Lassells,Honda Insight,8.0762,170.21
+2,Patty Clucas,Subaru Impreza,8.2160,162.69
+3,Rivy Fucher,Saab 9-7X,8.2170,175.45
+4,Britte Degan,Oldsmobile 88,8.2758,149.69
+5,Joan Hollingsbee,Toyota Solara,8.3174,180.79
+6,Evyn Cuffe,GMC Yukon,8.3207,179.75
+7,Georgena Garms,Volkswagen Beetle,8.3842,113.27
+8,Yorgos Lovemore,Ford Escort,8.4554,154.38
+9,Dodi Hoolaghan,Mitsubishi Galant,8.4566,161.68
+10,Gaspard Thundercliffe,Mercury Sable,8.5129,131.00
+11,Jacky Polglase,Maserati Quattroporte,8.5328,109.33
+12,Morgan Ilyunin,Buick Park Avenue,8.6063,164.02
+13,Alverta Thornewill,Lincoln Continental,8.6107,99.41
+14,Byram Brehault,Ford Model T,8.6251,123.16
+15,Maren Pays,Dodge Ram 3500,8.6338,150.04
+16,Caspar Colquite,Toyota Matrix,8.6489,175.88
+17,Chuck Duggen,Chevrolet Silverado 2500,8.7226,107.79
+18,Claybourne Chaffen,Ford Escape,8.7415,132.59
+19,Dotti Shearsby,Buick Somerset,8.7556,85.06
+20,Christabella Wytchard,BMW 3 Series,8.8357,94.94
+21,Forrester Brasseur,Buick LeSabre,8.8990,156.71
+22,Bunny Morden,Toyota Venza,8.9399,184.99
+23,Cacilia Gribbell,Toyota Tundra,8.9413,180.61
+24,Bertrand Yallowley,Volvo V90,8.9738,91.06
+25,Luke Dunham,Toyota 4Runner,9.0191,111.63
+26,Cob Gashion,Mitsubishi Lancer,9.1746,178.57
+27,Minda Crawford,Mitsubishi Mighty Max,9.1892,160.01
+28,Addie McAvinchey,Pontiac Sunfire,9.2474,114.07
+29,Ira Lehrle,Audi Allroad,9.2670,107.95
+30,Elihu Fewings,Buick Reatta,9.3514,190.69
+31,Donall Cumberledge,Panoz Esperante,9.3800,162.79
+32,Olivero Menlow,Chevrolet Camaro,9.4271,108.25
+33,Alta Flute,Mazda Mazda2,9.4858,185.02
+34,Adelina Le Galle,BMW 3 Series,9.6514,158.06
+35,Cleve Crighton,Audi TT,9.6656,87.03
+36,Van Elfitt,Volvo C70,9.7236,160.13
+37,Raphael Eisig,BMW M5,9.7772,159.83
+38,Shae Ledamun,Mercedes-Benz SLK-Class,9.8536,193.41
+39,Hastings Hunnicutt,Chrysler Voyager,9.9000,128.65
+40,Ken Baldini,GMC Sierra 2500,9.9456,158.51
+41,Roselle Synke,GMC Savana 2500,9.9514,159.65
+42,Bernelle McCarver,Mitsubishi Truck,9.9535,127.00
+43,Asa Forsbey,Audi A5,10.0035,199.97
+44,Cathie Frankiewicz,Audi S4,10.0084,199.52
+45,Cristabel Hinckes,Chrysler Town & Country,10.0278,194.30
+46,Kellsie Wilshere,BMW Z4 M,10.0730,96.20
+47,Chad Provost,Toyota Sequoia,10.1183,136.62
+48,Norma Rasher,Toyota Avalon,10.1433,148.14
+49,Corney Sollas,Lexus IS,10.1438,92.65
+50,Mariana Oxtoby,Ford F-Series,10.2096,176.13
+51,Konstance Lippiett,Chevrolet Beretta,10.2346,189.91
+52,Thomasin Whitely,Chevrolet 3500,10.2811,154.55
+53,Nonnah L' Estrange,Infiniti EX,10.2851,159.61
+54,Bartolemo Nesterov,BMW Z3,10.3072,113.55
+55,Faye Aicheson,Mazda B-Series,10.4283,192.29
+56,Revkah Penberthy,Cadillac Sixty Special,10.4628,177.63
+57,Bert Duchesne,Ford F250,10.5356,112.08
+58,Dyann Dugall,Chevrolet Colorado,10.5695,111.12
+59,Sanford Spridgeon,Lotus Elise,10.5825,102.11
+60,Jasmine Straffon,Jeep Liberty,10.5942,158.15
+61,Ara Stanner,Mercedes-Benz S-Class,10.6213,95.24
+62,Mitchel Northcote,Saab 44690,10.6445,173.26
+63,Quintilla Tugman,Plymouth Voyager,10.7008,119.37
+64,De Trussler,Plymouth Horizon,10.7192,123.03
+65,Willow Engel,Mercedes-Benz C-Class,10.7992,123.88
+66,Terry Fancett,Audi 5000S,10.8000,157.95
+67,Barney Potier,Chevrolet Express 3500,10.8219,91.55
+68,Rosalinde Blown,Audi RS4,10.8250,120.61
+69,Gage Conroy,Ford Thunderbird,10.8346,115.80
+70,Web Tearney,Jeep Commander,10.8733,136.07
+71,Ethelyn Kahan,Dodge Ram Van 2500,11.0559,121.76
+72,Prescott Grieg,Ford Th!nk,11.0592,99.92
+73,Kai Rosario,Toyota Solara,11.0688,140.33
+74,Roderich Greaterex,BMW X6,11.0692,167.31
+75,Seymour Frangello,Chevrolet Suburban 1500,11.2325,83.60
+76,Courtenay Holmyard,Jeep Wrangler,11.2646,147.86
+77,Vincent Oglesbee,Cadillac DTS,11.3094,128.84
+78,Leonhard Forbes,Hyundai Tiburon,11.3377,119.05
+79,Hilliary Hanbury,Chrysler PT Cruiser,11.3417,179.06
+80,Patrica Cloute,Dodge Grand Caravan,11.3596,188.02
+81,Daryn Pattle,Mazda Mazda3,11.3639,131.85
+82,Sonni Griggs,Cadillac Seville,11.3944,170.37
+83,Jourdan Coulter,Dodge Ram Van 3500,11.4050,87.68
+84,Clemmy Vizard,GMC Safari,11.5002,133.57
+85,Hurley Kirman,Ford Aerostar,11.5362,108.09
+86,Bridget Bradwell,Infiniti I,11.5543,169.54
+87,Teddie McKendry,Pontiac Sunbird,11.5560,83.20
+88,Waylon Collisson,Eagle Summit,11.5813,160.14
+89,Bernadene Bedome,Mercedes-Benz S-Class,11.7422,148.32
+90,Aleta Mechell,GMC Savana 1500,11.8033,144.19
+91,Elicia Katte,Toyota Xtra,11.9012,89.88
+92,Isaiah Gosden,Toyota TundraMax,11.9203,192.31
+93,Delia Eickhoff,Dodge Ram 2500,11.9823,160.75
+94,Earl Shekle,Toyota Avalon,12.0704,158.48
+95,Ebony Worssam,Chevrolet Suburban 2500,12.1558,164.29
+96,Minor Ridges,Land Rover Range Rover Sport,12.1628,81.01
+97,Susi Blazewski,Chevrolet Metro,12.3488,178.97
+98,Dill Rundall,Bentley Continental GTC,12.3583,132.00
+99,Elston Sambiedge,Chevrolet Corvette,12.3973,85.71
+100,Cicily Harridge,Dodge Ram 1500,12.4670,176.42
+101,Gabriello Dockreay,Subaru Outback,12.5701,101.21
+102,Hersch De Vere,Volvo XC70,12.6110,81.63
+103,Wolfie Hryniewicki,Mercury Sable,12.6917,108.35
+104,Dwayne Swabey,Volkswagen GTI,12.7921,177.87
+105,Tamarra D'Hooge,Saab 9000,12.8613,155.00
+106,Jennilee Merali,Honda CR-V,12.9283,191.80
+107,Hadleigh Orpwood,Mitsubishi Starion,12.9382,80.44
+108,Chet Adam,BMW 5 Series,12.9544,141.92
+109,Holly-anne Strudwick,Buick Regal,13.0128,123.98
+110,Joey Franek,Nissan Altima,13.0297,116.46
+111,Tony Donaghie,Chevrolet Monte Carlo,13.1787,92.66
+112,Jarid Butterley,Plymouth Sundance,13.2004,151.97
+113,Tobye Couroy,Mitsubishi Cordia,13.2471,196.82
+114,Caroline Beiderbeck,Ford E350,13.3646,169.58
+115,Lorens Adderley,Jeep Wrangler,13.5833,98.70
+116,Zena Cours,Mitsubishi Mirage,13.6102,95.20
+117,Phebe Pallant,Mercedes-Benz SLK-Class,13.6611,115.75
+118,Bertrando Burn,Hyundai Sonata,13.6687,119.14
+119,Brett Litterick,Mercedes-Benz S-Class,13.6764,125.45
+120,Gayler Flaverty,Audi 200,13.6829,120.78
+121,Maryjo Aronovitz,Cadillac SRX,13.6857,87.38
+122,Laraine Simko,Jeep Liberty,13.7386,183.18
+123,Goldy Tellwright,Jaguar S-Type,13.7718,167.28
+124,Winnie Bridge,Land Rover LR2,13.7733,90.81
+125,Maridel Steventon,GMC Jimmy,13.8724,163.49
+126,Zelda Amery,Mercury Villager,13.8809,172.93
+127,Clementia Benezet,Pontiac Vibe,13.9206,133.32
+128,Lorine Vakhlov,Hyundai Accent,13.9379,85.48
+129,Cristin Beri,Toyota Previa,13.9869,194.36
+130,Pascal Caws,Nissan Maxima,13.9872,150.25
+131,Bernarr Lines,Isuzu Rodeo,14.0094,114.31
+132,Hewett Imison,Nissan Xterra,14.0243,159.44
+133,Stevy O'Neal,Lexus SC,14.1024,130.89
+134,Bernard McCambridge,Mercedes-Benz SLK-Class,14.1719,199.60
+135,Theadora Malatalant,Volkswagen Passat,14.3224,134.93
+136,Brina Lohde,Saab 900,14.3350,106.06
+137,Christiano Buntine,Isuzu Amigo,14.3398,116.75
+138,Genny Kinnin,Plymouth Colt,14.3700,118.06
+139,Bernardo Ferrick,Lincoln Town Car,14.4150,186.80
+140,Elsie Simoncello,Buick LeSabre,14.4831,140.53
+141,Candie Lefley,Ford F150,14.5609,134.51
+142,Bernadine Makey,Hyundai Tucson,14.5728,145.49
+143,Crissie Goreway,Dodge Challenger,14.5982,166.05
+144,Elysee Colten,Volkswagen Cabriolet,14.6313,197.41
+145,Cyndy Bruckstein,Toyota Land Cruiser,14.6791,157.29
+146,Ondrea Gauden,Oldsmobile Achieva,14.7343,169.98
+147,Antonietta Adamovitch,Chrysler Concorde,14.8134,190.12
+148,Gene Vautin,Hyundai Tucson,14.8542,199.60
+149,Dasha Landa,Pontiac 6000,14.9380,148.59
+150,Cacilie Aleksankov,Honda Odyssey,14.9486,111.93

@@ -1,0 +1,13 @@
+* {
+    font-size: large;
+    background-color: black;
+}
+
+td.clubrow
+{
+    color: white;
+    box-shadow: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+}
