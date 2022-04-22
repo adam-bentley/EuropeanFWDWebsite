@@ -1,6 +1,10 @@
 * {
     font-size: large;
-    background-color: black;
+}
+
+body
+{
+    background-color: black !important;
 }
 
 td.clubrow
