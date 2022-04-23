@@ -15,7 +15,7 @@ The data should be a `.csv` file, stored in the root directory `data.csv`. It **
 The CSV data is requested and parsed using Javascript. It is then built into a HTML table. At the 7, 8 and 9 second cut off points are `clubrows`. These act a banner to indicated the new threshold.
 
 ## Deployment
-The website is deployed to a static web app in Azure under the following URLS:
+The `$web` folder is deployed to a static web app in Azure under the following URLS:
  - https://europeanfwdwebsite.z33.web.core.windows.net/
  - ~~EuropeanFWD.com~~
  - ~~EuropeanFWD.co.uk~~
