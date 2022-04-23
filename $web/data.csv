@@ -1,0 +1,174 @@
+#,Name,Contry,Vehicle,ET,MPH,Track
+1,Elshan Aslanov,RUS,VAZ 2110,8.1120,175.00,Racepark 
+2,Thorsten Middendorf,DEU,VW Golf,8.2540,173.06,Santa Pod 
+3,Wendel Brand,ENG,Honda Civic,8.3460,179.25,Santa Pod 
+4,Michael Holleman,NLD,Honda Civic,8.3630,161.96, Santa Pod 
+5,Dimitris Panitsas,GRC,VW Golf,8.4030,167.17,Agrinio 
+6,Miguel Montebello,MLT,Honda Integra,8.4190,179.38,Hal-Far 
+7,Renald Farrugia,MLT,Mitsubishi FTO,8.4220,177.33,Hal- Far 
+8,Mustafa Murtazayev,RUS,VAZ2108,8.4530,163.75,Nizhny Novgorod 
+9,Kiel Priestman,ENG,Honda Civic,8.5960,175.07,Santa Pod 
+10,Mario Thau,DEU,VW Polo,8.6900,170.28,Hockenheim 
+11,Sergey Starshinov,RUS,Mitsubishi Eclipse,8.7170,168.90,Grozny 
+12,Laurence Grixti,MLT,Honda Civic,8.7230,171.72,Hal-Far 
+13,Guy Chamberlain,ENG,Honda Civic,8.7660,173.00,Santa Pod 
+14,Artem Demykhov,RUS,Lada Samara,8.8080,167.37,Fort Grozny 
+15,Calvin Skerritt,ENG,Honda Civic,8.8100,177.15,Santa Pod 
+16,Nikos Giakoumakis,GRC,Peugeot 106,8.8430,164.71,Agrinio 
+17,Alexey Kremnev,RUS,Honda Civic,8.8580,156.10,Nizhny Novgorod 
+18,Richard Batty,ENG,Mitsubishi FTO,8.8590,174.59,SCR 
+19,Steeve Durante,FRA,Honda Civic,8.8690,164.86,Santa Pod 
+20,Chris Backshell,GBR,Renault 5,8.8790,167.91,Santa Pod
+21,Pedro Lopes,PRT,Honda Civic,8.8890,173.08,Santa Pod 
+22,Eljan Timmler,NLD,Opel Corsa,8.8920,161.04,Drachten 
+23,Ruslan Frolov,RUS,Mitsubishi Eclpise,8.9080,162.09,Grozny 
+24,Christopher Muscat,MLT,Toyota Starlet,8.9380,152.50,Hal-Far 
+25,Dawid Lamik,POL,Opel Corsa,8.9570,163.42,Pila
+26,Sasvvas Petropoulos,GRC,Opel Corsa,8.9590,160.23,Agrino
+27,Ntinos Tourkoxoritis,GRC,Peugeot 106,8.9680,155.88,Thiva 
+28,Björn Holmberg,SWE,Nissan Cherry,8.9900,161.01,Tierp 
+29,Björn Holmberg,SWE,Nissan Juke,8.9910,152.90,Kjula Dragway 
+30,Rino Gabucci,ITA,Fiat Uno,9.0800,156.64,Hockenheim 
+31,Igor Kovacic,SVN,Opel Corsa (Nova),9.1110,158.41,Hockenheim 
+32,George Gkitsis,GRC,Peugeot 106,9.1360,157.74,Thiva 
+33,Vadim Kravchenko,RUS,VAZ 2108,9.1800,150.82,Grozny 
+34,Phillip Reeves,ENG,Ford Fiesta,9.1830,156.38,Santa Pod 
+35,Ahmed Jamshaid,ENG,Honda Civic,9.1840,154.67,Santa Pod 
+36,John Spiteri,MLT,Honda Integra,9.2470,163.83,Hal-Far 
+37,Paul Atkinson,ENG,Honda Civic,9.2480,163.68, Santa Pod 
+38,Marvic Skocc Galea,MLT,Toyota Starlet,9.2480,150.98,Hal-Far 
+39,Andy Nichols,GBR,Honda Civic,9.2520,154.21,Santa Pod
+40,Alex Konrad,DEU,VW Corrado,9.2530,161.87,Bitburg 
+41,Thwmas Stefanakos,GRC,Citroen AX,9.2620,151.55, Thiva 
+42,Anedrey Serdyukov,RUS,Honda Civic,9.2820,161.68,Grozny  
+43,Marcus Schmidt,DEU,VW Golf,9.3090,167.90,Zerbst 
+44,Giannis Apergis,GRC,Opel Corsa,9.3120,126.37,Agrinio 
+45,Miguel Montebello,MLT,Honda Civic,9.3150,156.61,Hal-Far 
+46,Giannis Giannopoulos,GRC,Honda Civic,9.3280,150.32,Thiva  
+47,Stephan Klasen,DEU,Opel Astra,9.3610,156.25,Bitburg 
+48,Kovacs Szabolcs,HUN,Ford Fiesta,9.3760,151.30,Kiskunlachaza 
+49,Vladymir Tretyak,RUS,VAZ 2108,9.3840,147.55,Nizhny Novgorod 
+50,Andy Nicholls,ENG,Honda Integra,9.3860,164.83,Santa Pod 
+51,Luke Pritchard,ENG,Honda Civic,9.3960,161.89, Santa Pod 
+52,Luca Angghel,ROU,VW Golf,9.4020,152.08,Arad  
+53,Allan Duthie,SCT,Vauxhall Corsa,9.4234,156.89, Santa Pod 
+54,Spyros Skamnelos,GRC,Opel Corsa,9.4280,153.63,Agrinoio  
+55,George Lockerby,SCT,Vauxhall Corsa,9.4360,154.72,Santa Pod 
+56,Wayne Muscat,MLT,Honda Civic,9.4360,149.35,Hal-Far 
+57,Witold Karalow,POL,Honda Civic Coupe,9.4390,151.73,Wittstock 
+58,Yasir Dar,ENG,Honda Civic,9.4440,156.39,Santa Pod 
+59,Malte Ulrich,DEU,VW Polo,9.4560,157.81,Finsterwalde 
+60,Paul Lynas,ENG,Seat Arosa,9.4610,150.55,Santa Pod 
+61,Björn Fechner,DEU,VW Polo,9.4660,159.64,Finsterwalde  
+62,Dennis Skiby,DNK,Toyota Starlet,9.4670,150.17,Santa Pod  
+63,Mikael Edstrand,SWE,Saab 93,9.4690,152.85,Kjula Dragway 
+64,Helder Pereira,PRT,Seat Ibiza,9.4760,149.67,Santa Pod 
+65,José Realista,PRT,VW Polo,9.4780,141.72,Santa Pod 
+66,Takis Vouros,GRC,Fiat Uno,9.4870,149.75, Polykastro  
+67,Irving Schembri,MLT,Opel Astra,9.4990,153.27,Hal-Far 
+68,Yana Sotova,RUS,Honda Civic,9.5000,139.54,Nizhny Novgorod 
+69,Dan Frost,ENG,Honda Civic,9.5050,156.31,Santa Pod 
+70,Kiel Priestman,ENG,Honda Civic,9.5090,147.00,Santa Pod 
+71,Giannis Giannopoulos,GRC,Honda Civic,9.5110,148.93,Thivia 
+72,Diogo Inacio,PRT,VW Golf,9.5110,144.75,Santa Pod 
+73,Dimitris Batsios,GRC,VW Golf,9.5350,149.72,Thiva 
+74,Oksana Yakovleva,RUS,Honda Civic,9.5430,149.22,Nizhny Novgorod 
+75,Glenn Robson,ENG,Honda Civic,9.5440,161.35,Santa Pod 
+76,Felix Dahna,MLT,Toyota Starlet,9.5490,148.64,Hal-Far 
+77,Spyros Floratos,GRC,Honda Civic,9.5520,151.95,Tympaki 
+78,Keith Pace,MLT,Toyota Starlet,9.5580,148.34,Hal-Far 
+79,Craig Evans,GBR,Vauxhall Corsa,9.5630,149.67, Santa Pod 
+80,Jonathan Grech,MLT,Toyota Starlet,9.5640,150.25,Hal-Far  
+81,Michał Surowiński,POL,Toyota Celica,9.5700,162.03,Finsterwalde 
+82,Stavros Louridas,GRC,Citroen Saxo,9.5810,153.10,Tympaki 
+83,Douglas Attard,MLT,Honda Civic,9.5840,155.62,Hal-Far 
+84,Fotis Xondropoulos,GRC,Peugeot 106,9.5860,147.25,Agrino
+85,Lee Ross,ENG,VW Jetta,9.5920,156.84,Santa Pod 
+86,Robert Uhr,SWE,Saab 9-3,9.6020,151.09,Orsa 
+87,Joachim Schumacher,DEU,Opel Corsa,9.6030,152.94,Kiskunlacháza 
+88,Jakob Hansen,DNK,Toyota Starlet,9.6070,147.19,Kjula Dragway 
+89,Boba Kettler,DEU,VW Polo,9.6170,147.06,Bitburg 
+90,Nicholas Hackiere,FRA,Citroen AX,9.6250,151.57,Santa Pod 
+91,Tasos Labrakis,GRC,Honda Civic,9.6260,158.64, Agrinio
+92,Dawid Gezella,POL,Opel Corsa,9.6300,147.94,Pila
+93,Aggelos Papailias,GRC,Honda Civic,9.6480,154.37,Kopaida 
+94,Adam Gile,ROU,Opel Astra,9.6480,145.82,Kiskunlacháza 
+95,Glen Caruana,MLT,Toyota Starlet,9.6500,150.01,Hal-Far 
+96,Douglas Gemmell,ENG,Honda Civic,9.6570,157.95,Santa Pod 
+97,Chris Pekitu,MLT,Toyota Starlet,9.6580,145.16,Hal-Far 
+98,Sandor Vogelsinger,HUN,Honda Civic,9.6650,150.03,Kunmadaras 
+99,Reangelo Bentura,NLD,Honda Civic,9.6690,151.14,Drachten 
+100,Conrad Vella,MLT,Opel Astra,9.6770,152.96,Ħal-Far  
+101,Maxim Pyritkov,RUS,Lada Samara,9.6800,150.33,Yevpatoriia 
+102,Dimitris Zachos,GRC,Seat Leon,9.6990,155.88,Agrinio
+103,Kamil Krzemień,POL,Mazda 323,9.7060,152.02,Finsterwalde 
+104,Christoph Wiesener,DEU,Honda Civic,9.7090,152.90,Finsterwalde 
+105,Giorgos Papadopoulos,GRC,Toyota Starlet,9.7090,149.75,Polykastro  
+106,Robert Lord,ENG,VW Golf,9.7150,152.00,Santa Pod 
+107,Nikos Gasparatos,GRC,Honda Civic,9.7260,149.65,Polykastro 
+108,Lakwvos Markesinis,GRC,Honda Civic,9.7420,149.12,Thiva 
+109,Lefteris Diamadis,GRC,Citreon AX,9.7450,140.41,Tympaki 
+110,Wayne Scicluna,MLT,Toyota Starlet,9.7490,145.45,Hal-Far Raceway
+111,Jacob Bailey,GBR,VW Jetta,9.7500,153.17,Santa Pod
+112,Michael Clarke,ENG,Ford Fiesta,9.7610,152.59,Santa Pod 
+113,Maruli Vean Haastert,NLD,Honda Civic,9.7660,153.80,Drachten 
+114,Iwan Haisma,NLD,VW Lupo,9.7730,143.84,Drachten 
+115,Daniel Micallef,MLT,Ford Focus,9.7800,148.78,Hal-Far 
+116,Chris Sutton,ENG,Honda Civic,9.7870,149.63,Santa Pod 
+117,Adam Buckley,ENG,Honda Civic,9.7910,145.70,Santa Pod 
+118,Nicklas Ekwall,SWE,Honda Crx,9.7940,151.28,Tierp 
+119,Falco Rumpel,DEU,VW Golf,9.7990,148.86,Finsterwalde 
+120,Igor Baranov,RUS,Honda Civic,9.8010,150.02,Grozny 
+121,Xristos Soulos,GRC,Honda Civic,9.8100,152.58,Tympaki 
+122,Tim Bechtold,DEU,Opel Corsa,9.8150,151.03,Hockenheim  
+123,Martin Vella,MLT,Toyota Starlet,9.8160,140.00,Hal-Far 
+124,John Spiteri,MLT,Honda Integra,9.8210,159.04,Hal-Far 
+125,Ray Saunders,ENG,Honda Civic,9.8240,155.26,Santa Pod 
+126,Sergey Starshinov,RUS,Lada Samara,9.8260,150.99,Zaporozhye 
+127,Marvin Micallef,MLT,Toyota Windy,9.8390,145.96,Hal-Far  
+128,Scott Parkin,ENG,Seat Arosa,9.8470,142.99,Santa Pod 
+129,Pete Wilson,ENG,Vauxhall Corsa,9.8560,153.16,Santa Pod 
+130,Mirel Stoinea,ROU,VW Golf,9.8590,142.57,Arad
+131,Rafal Kakol,POL,VW Golf,9.8670,147.07,Pila 
+132,Andy Speck,ENG,Vauxhall Tigra,9.8680,148.63,Santa Pod 
+133,Dimitris Batsios,GRC,VW Golf,9.8700,143.57,Thiva  
+134,Terry Newton,GBR,Ford Escort Van ,9.8730,150.12,Santa Pod
+135,Gino De Jong,NLD,Honda Civic,9.8730,144.34,Santa Pod 
+136,Paul Gatt,MLT,Toyota Glanza,9.8770,148.41,Hal-Far  
+137,Ste Powell,ENG,Vauxhall Tigra,9.8810,150.00,Santa Pod 
+138,Piotr Sawczenko,POL,Honda Civic,9.8810,144.76,Finsterwalde  
+139,Andrzej Majchrzyk,POL,Honda CRX,9.8820,136.47,Pila (N/A)
+140,Panos Petropoulos,GRC,Opel Corsa,9.8880,150.12,Tympaki 
+141,Pawel Pietrzak,POL,Seat Arosa,9.8940,143.92,Santa Pod
+142,Manajah Wells,GBR,Honda Civic,9.8960,132.98,Santa Pod NA
+143,Magomedsalim Bayrambekov,RUS,Honda Civic,9.8990,126.87,Grozny 
+144,Giannis Zois,GRC,Citroen Saxo,9.9080,149.92,Thiva 
+145,Miguel Montebello,MLT,Honda Civic,9.9100,152.73,Hal-Far Raceway 
+146,Jimmy Debattista,MLT,Toyota Glanza,9.9180,148.55,Hal-Far 
+147,Kalle Uhr,SWE,Opel Corsa,9.9190,142.90,Kjula Dragway 
+148,Rohit Baldew,NLD,Honda Civic,9.9210,147.67,Santa Pod 
+149,Sandra Frank,DEU,Mitsubishi Colt,9.9210,143.96,Finsterwalde  
+150,Boys Boy Buijs,NLD,Honda Civic,9.9250,137.33,Santa Pod (N/A)
+151,Lukasz Laskowski,POL,Honda Civic,9.9260,152.57,Kiskunlacháza  
+152,Arshaad Bhoelan,NLD,Honda Integra,9.9300,150.63,Drachten 
+153,Robert Byrne,IRL,Renault 5,9.9340,142.56,Santa Pod  
+154,Malcolm Parnis,MLT,Honda Civic,9.9390,142.51,Hal-Far Raceway
+155,Takis Vouros,GRC,Fiat Punto,9.9430,144.09,Polykastro 
+156,Dimitris Karafoulidis,GRC,Toyota Startlet,9.9440,149.99,Polykastro 
+157,Luke Muscat,MLT,Opel Corsa,9.9440,144.09,Ħal-Far 
+158,Georgiy Garakishiev,RUS,Mitsubishi Mirage,9.9490,145.77,N.Novgorod 
+159,Giorgos Liakos,GRC,Seat Leon,9.9490,145.15,Thiva 
+160,Winesh Akloe,NLD,Honda Integra,9.9500,150.12,Santa Pod 
+161,Carl Goldsmith,GBR,VW Golf,9.9590,146.23,Santa Pod 
+162,Reandly Winklaar,NLD,Honda Civic,9.9640,149.63,Drachten 
+163,Matt Davison,GBR,Honda Civic,9.9680,145.73,Santa Pod
+164,Luis Silva,PRT,Seat Ibiza,9.9680,134.43,Santa Pod
+165,José Realista,PRT,Seat Ibiza,9.9810,141.14,Santa Pod 
+166,George Halimourdas,GRC,Peugeot 106,9.9870,150.02,Thiva  
+167,Dean Ciantar,MLT,Toyota Starlet,9.9870,145.70,Hal-Far 
+168,Catriel Dimech,MLT,Honda Civic,9.9880,142.35,Hal-Far
+169,Giorgos Fotiadis,GRC,Honda Civic,9.9920,151.31,Thiva 
+170,Giannis Kafetzis,GRC,Honda Civic,9.9920,145.02,Polykastro  
+171,Štefan Holakovský,SVK,Honda Civic,9.9940,151.60,Kiskunlacháza 
+172,Vasilis Chamouridis,GRC,Honda CRX,9.9970,147.74,Thiva 
+173,Andy Nichols,ENG,MG ZR,9.9990,153.11,Santa Pod
